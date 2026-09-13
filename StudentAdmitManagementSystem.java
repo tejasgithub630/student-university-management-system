@@ -6,6 +6,8 @@ import java.util.HashMap;
 
 public class StudentAdmitManagementSystem {
     public static void main(String[] args) {
+        Database.createTables();
+
         JFrame frame = new JFrame("Student Admit Management System");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH); // Maximize the window
