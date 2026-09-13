@@ -23,9 +23,5 @@ The SQLite database is created as `data.db` in the application's working directo
 ## Default login
 Student password: `P@ssw0rd@#`
 
-Admin:
-- username: `admin1`, password: `adminpassword1`
-- username: `admin2`, password: `adminpassword2`
-
 ## Notes
 This is a desktop Swing application, so GitHub can host the source code but does not run the Swing GUI directly in the browser.
