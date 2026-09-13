@@ -1,0 +1,4 @@
+out/
+*.class
+sqlite-jdbc-*.jar
+data.db
